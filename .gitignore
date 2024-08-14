@@ -5,6 +5,8 @@ examples/**/cypress/downloads
 results.json
 .vscode/
 
+
+
 # Logs
 logs
 *.log
